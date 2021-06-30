@@ -1,0 +1,252 @@
+com/kylukz/agitofoods/Toolbox/RoundCornersDrawable.java
+ com.kylukz.agitofoods.Toolbox.RoundCornersDrawable
+com/kylukz/agitofoods/Services/CustomService.java
+ com.kylukz.agitofoods.Services.CustomService
+ com.kylukz.agitofoods.Services.CustomService$1
+com/kylukz/agitofoods/Toolbox/VariaveisGlobais.java
+ com.kylukz.agitofoods.Toolbox.VariaveisGlobais
+com/kylukz/agitofoods/JavaBeans/EntidadeEtapaCredito.java
+ com.kylukz.agitofoods.JavaBeans.EntidadeEtapaCredito
+com/kylukz/agitofoods/JavaBeans/EntidadeEmpresa.java
+ com.kylukz.agitofoods.JavaBeans.EntidadeEmpresa
+com/kylukz/agitofoods/Services/AppService.java
+ com.kylukz.agitofoods.Services.AppService
+com/kylukz/agitofoods/DAO/PedidoDAO.java
+ com.kylukz.agitofoods.DAO.PedidoDAO
+com/kylukz/agitofoods/Toolbox/Parametros.java
+ com.kylukz.agitofoods.Toolbox.Parametros
+com/kylukz/agitofoods/DAO/UsuarioDAO.java
+ com.kylukz.agitofoods.DAO.UsuarioDAO
+com/kylukz/agitofoods/DAO/ProdutoDAO.java
+ com.kylukz.agitofoods.DAO.ProdutoDAO
+com/kylukz/agitofoods/SplashActivity.java
+ com.kylukz.agitofoods.SplashActivity
+ com.kylukz.agitofoods.SplashActivity$1
+com/kylukz/agitofoods/Toolbox/CustomDialogClass.java
+ com.kylukz.agitofoods.Toolbox.CustomDialogClass
+com/kylukz/agitofoods/Firebase/FirebaseMessagingService.java
+ com.kylukz.agitofoods.Firebase.FirebaseMessagingService
+com/kylukz/agitofoods/JavaBeans/EntidadeParametro.java
+ com.kylukz.agitofoods.JavaBeans.EntidadeParametro
+com/kylukz/agitofoods/SQLite/SQLiteGeraTabelaGerenciamento.java
+ com.kylukz.agitofoods.SQLite.SQLiteGeraTabelaGerenciamento
+com/kylukz/agitofoods/Toolbox/ManipulaData.java
+ com.kylukz.agitofoods.Toolbox.ManipulaData
+com/kylukz/agitofoods/Adapters/EmpresaAdapter.java
+ com.kylukz.agitofoods.Adapters.EmpresaAdapter
+ com.kylukz.agitofoods.Adapters.EmpresaAdapter$1
+ com.kylukz.agitofoods.Adapters.EmpresaAdapter$AsyncTaskGetEmpresa
+ com.kylukz.agitofoods.Adapters.EmpresaAdapter$PontoViewHolder
+com/kylukz/agitofoods/Toolbox/IndicadoresIndexRecyclerView.java
+ com.kylukz.agitofoods.Toolbox.IndicadoresIndexRecyclerView
+com/kylukz/agitofoods/JavaBeans/EntidadePagamentoBandeirasCartao.java
+ com.kylukz.agitofoods.JavaBeans.EntidadePagamentoBandeirasCartao
+com/kylukz/agitofoods/DAO/EmpresaDAO.java
+ com.kylukz.agitofoods.DAO.EmpresaDAO
+com/kylukz/agitofoods/JavaBeans/EntidadeGrupoProdutosEmpresa.java
+ com.kylukz.agitofoods.JavaBeans.EntidadeGrupoProdutosEmpresa
+com/kylukz/agitofoods/Firebase/Logg.java
+ com.kylukz.agitofoods.Firebase.Logg
+com/kylukz/agitofoods/Toolbox/SnapHelperOneByOne.java
+ com.kylukz.agitofoods.Toolbox.SnapHelperOneByOne
+com/kylukz/agitofoods/View/SegmentoActivity.java
+ com.kylukz.agitofoods.View.SegmentoActivity
+com/kylukz/agitofoods/JavaBeans/EntidadeMotoboy.java
+ com.kylukz.agitofoods.JavaBeans.EntidadeMotoboy
+com/kylukz/agitofoods/Adapters/ComandaAdapter.java
+ com.kylukz.agitofoods.Adapters.ComandaAdapter
+ com.kylukz.agitofoods.Adapters.ComandaAdapter$1
+ com.kylukz.agitofoods.Adapters.ComandaAdapter$PontoViewHolder
+com/kylukz/agitofoods/Routes/Rotas.java
+ com.kylukz.agitofoods.Routes.Rotas
+com/kylukz/agitofoods/Firebase/FcmTokenRegistrationService.java
+ com.kylukz.agitofoods.Firebase.FcmTokenRegistrationService
+ com.kylukz.agitofoods.Firebase.FcmTokenRegistrationService$1
+com/kylukz/agitofoods/JavaBeans/EntidadeLog.java
+ com.kylukz.agitofoods.JavaBeans.EntidadeLog
+com/kylukz/agitofoods/JavaBeans/EntidadeCadastroUsuario.java
+ com.kylukz.agitofoods.JavaBeans.EntidadeCadastroUsuario
+com/kylukz/agitofoods/Toolbox/Ferramentas.java
+ com.kylukz.agitofoods.Toolbox.Ferramentas
+ com.kylukz.agitofoods.Toolbox.Ferramentas$1
+ com.kylukz.agitofoods.Toolbox.Ferramentas$ShadowImage
+com/kylukz/agitofoods/Adapters/GruposEmpresaAdapter.java
+ com.kylukz.agitofoods.Adapters.GruposEmpresaAdapter
+ com.kylukz.agitofoods.Adapters.GruposEmpresaAdapter$1
+ com.kylukz.agitofoods.Adapters.GruposEmpresaAdapter$OpcoesPontoViewHolder
+com/kylukz/agitofoods/Adapters/ProdutoGrupoPizzaAdapter.java
+ com.kylukz.agitofoods.Adapters.ProdutoGrupoPizzaAdapter
+ com.kylukz.agitofoods.Adapters.ProdutoGrupoPizzaAdapter$1
+ com.kylukz.agitofoods.Adapters.ProdutoGrupoPizzaAdapter$ProdutoGrupoEscolhidoViewHolder
+com/kylukz/agitofoods/BuildConfig.java
+ com.kylukz.agitofoods.BuildConfig
+com/kylukz/agitofoods/Adapters/SegmentosAdapter.java
+ com.kylukz.agitofoods.Adapters.SegmentosAdapter
+ com.kylukz.agitofoods.Adapters.SegmentosAdapter$1
+ com.kylukz.agitofoods.Adapters.SegmentosAdapter$PontoViewHolder
+com/kylukz/agitofoods/JavaBeans/EntidadeUsuario.java
+ com.kylukz.agitofoods.JavaBeans.EntidadeUsuario
+com/kylukz/agitofoods/Valid/ValidaCPF.java
+ com.kylukz.agitofoods.Valid.ValidaCPF
+com/kylukz/agitofoods/Toolbox/MenusAbaLateralEsquerda.java
+ com.kylukz.agitofoods.Toolbox.MenusAbaLateralEsquerda
+com/kylukz/agitofoods/Toolbox/Json.java
+ com.kylukz.agitofoods.Toolbox.Json
+com/kylukz/agitofoods/Toolbox/RecyclerItemClickListener.java
+ com.kylukz.agitofoods.Toolbox.RecyclerItemClickListener
+ com.kylukz.agitofoods.Toolbox.RecyclerItemClickListener$1
+ com.kylukz.agitofoods.Toolbox.RecyclerItemClickListener$OnItemClickListener
+com/kylukz/agitofoods/Toolbox/Receiver.java
+ com.kylukz.agitofoods.Toolbox.Receiver
+com/kylukz/agitofoods/JavaBeans/EntidadeBotoesMenuPonto.java
+ com.kylukz.agitofoods.JavaBeans.EntidadeBotoesMenuPonto
+com/kylukz/agitofoods/Cart/AtributoCarrinho.java
+ com.kylukz.agitofoods.Cart.AtributoCarrinho
+com/kylukz/agitofoods/Toolbox/Mask.java
+ com.kylukz.agitofoods.Toolbox.Mask
+ com.kylukz.agitofoods.Toolbox.Mask$1
+com/kylukz/agitofoods/Animation/MyBounceInterpolator.java
+ com.kylukz.agitofoods.Animation.MyBounceInterpolator
+com/kylukz/agitofoods/Valid/ValidadorCadastro.java
+ com.kylukz.agitofoods.Valid.ValidadorCadastro
+com/kylukz/agitofoods/Valid/ValidadorLogin.java
+ com.kylukz.agitofoods.Valid.ValidadorLogin
+com/kylukz/agitofoods/DAO/GruposEmpresaDAO.java
+ com.kylukz.agitofoods.DAO.GruposEmpresaDAO
+com/kylukz/agitofoods/View/MapPontoActivity.java
+ com.kylukz.agitofoods.View.MapPontoActivity
+ com.kylukz.agitofoods.View.MapPontoActivity$1
+com/kylukz/agitofoods/JavaBeans/EntidadeSegmento.java
+ com.kylukz.agitofoods.JavaBeans.EntidadeSegmento
+com/kylukz/agitofoods/JavaBeans/EntidadeCarrinhoPonto.java
+ com.kylukz.agitofoods.JavaBeans.EntidadeCarrinhoPonto
+com/kylukz/agitofoods/Toolbox/Connectivity.java
+ com.kylukz.agitofoods.Toolbox.Connectivity
+com/kylukz/agitofoods/Adapters/ProdutoGrupoEscolhidoAdapter.java
+ com.kylukz.agitofoods.Adapters.ProdutoGrupoEscolhidoAdapter
+ com.kylukz.agitofoods.Adapters.ProdutoGrupoEscolhidoAdapter$1
+ com.kylukz.agitofoods.Adapters.ProdutoGrupoEscolhidoAdapter$2
+ com.kylukz.agitofoods.Adapters.ProdutoGrupoEscolhidoAdapter$ProdutoGrupoEscolhidoViewHolder
+com/kylukz/agitofoods/JavaBeans/EntidadeErro.java
+ com.kylukz.agitofoods.JavaBeans.EntidadeErro
+com/kylukz/agitofoods/Toolbox/ServiceW.java
+ com.kylukz.agitofoods.Toolbox.ServiceW
+com/kylukz/agitofoods/View/MainActivity.java
+ com.kylukz.agitofoods.View.MainActivity
+ com.kylukz.agitofoods.View.MainActivity$1
+ com.kylukz.agitofoods.View.MainActivity$10
+ com.kylukz.agitofoods.View.MainActivity$11
+ com.kylukz.agitofoods.View.MainActivity$12
+ com.kylukz.agitofoods.View.MainActivity$13
+ com.kylukz.agitofoods.View.MainActivity$14
+ com.kylukz.agitofoods.View.MainActivity$15
+ com.kylukz.agitofoods.View.MainActivity$16
+ com.kylukz.agitofoods.View.MainActivity$17
+ com.kylukz.agitofoods.View.MainActivity$18
+ com.kylukz.agitofoods.View.MainActivity$19
+ com.kylukz.agitofoods.View.MainActivity$2
+ com.kylukz.agitofoods.View.MainActivity$20
+ com.kylukz.agitofoods.View.MainActivity$3
+ com.kylukz.agitofoods.View.MainActivity$4
+ com.kylukz.agitofoods.View.MainActivity$5
+ com.kylukz.agitofoods.View.MainActivity$6
+ com.kylukz.agitofoods.View.MainActivity$7
+ com.kylukz.agitofoods.View.MainActivity$8
+ com.kylukz.agitofoods.View.MainActivity$9
+ com.kylukz.agitofoods.View.MainActivity$AsyncTaskEsqueciSenhaUsuario
+ com.kylukz.agitofoods.View.MainActivity$AsyncTaskGetUsuario
+ com.kylukz.agitofoods.View.MainActivity$AsyncTaskSetCadastrarUsuario
+ com.kylukz.agitofoods.View.MainActivity$AsyncTaskSetCompletarCadastro
+com/kylukz/agitofoods/Adapters/EtapasPagamentoAdapter.java
+ com.kylukz.agitofoods.Adapters.EtapasPagamentoAdapter
+ com.kylukz.agitofoods.Adapters.EtapasPagamentoAdapter$PontoViewHolder
+ com.kylukz.agitofoods.Adapters.EtapasPagamentoAdapter$PontoViewHolderBandeiras
+ com.kylukz.agitofoods.Adapters.EtapasPagamentoAdapter$PontoViewHolderDadosCartao
+com/kylukz/agitofoods/JavaBeans/EntidadePagamentoCartaoCredito.java
+ com.kylukz.agitofoods.JavaBeans.EntidadePagamentoCartaoCredito
+com/kylukz/agitofoods/JavaBeans/EntidadeProdutosGrupoEscolhido.java
+ com.kylukz.agitofoods.JavaBeans.EntidadeProdutosGrupoEscolhido
+com/kylukz/agitofoods/View/EmpresaActivity.java
+ com.kylukz.agitofoods.View.EmpresaActivity
+ com.kylukz.agitofoods.View.EmpresaActivity$1
+ com.kylukz.agitofoods.View.EmpresaActivity$1$1
+ com.kylukz.agitofoods.View.EmpresaActivity$10
+ com.kylukz.agitofoods.View.EmpresaActivity$11
+ com.kylukz.agitofoods.View.EmpresaActivity$11$1
+ com.kylukz.agitofoods.View.EmpresaActivity$11$2
+ com.kylukz.agitofoods.View.EmpresaActivity$12
+ com.kylukz.agitofoods.View.EmpresaActivity$13
+ com.kylukz.agitofoods.View.EmpresaActivity$2
+ com.kylukz.agitofoods.View.EmpresaActivity$3
+ com.kylukz.agitofoods.View.EmpresaActivity$4
+ com.kylukz.agitofoods.View.EmpresaActivity$4$1
+ com.kylukz.agitofoods.View.EmpresaActivity$4$2
+ com.kylukz.agitofoods.View.EmpresaActivity$5
+ com.kylukz.agitofoods.View.EmpresaActivity$6
+ com.kylukz.agitofoods.View.EmpresaActivity$7
+ com.kylukz.agitofoods.View.EmpresaActivity$8
+ com.kylukz.agitofoods.View.EmpresaActivity$9
+ com.kylukz.agitofoods.View.EmpresaActivity$AsyncTaskFinalizarPedido
+ com.kylukz.agitofoods.View.EmpresaActivity$AsyncTaskGetGruposEmpresa
+ com.kylukz.agitofoods.View.EmpresaActivity$AsyncTaskGetProdutosGrupoEscolhido
+ com.kylukz.agitofoods.View.EmpresaActivity$AsyncTaskPagamento
+com/kylukz/agitofoods/DAO/ParametroDAO.java
+ com.kylukz.agitofoods.DAO.ParametroDAO
+com/kylukz/agitofoods/View/FechaContaCarrinhoActivity.java
+ com.kylukz.agitofoods.View.FechaContaCarrinhoActivity
+com/kylukz/agitofoods/Animation/Sombreamento.java
+ com.kylukz.agitofoods.Animation.Sombreamento
+com/kylukz/agitofoods/Toolbox/GPSTracker.java
+ com.kylukz.agitofoods.Toolbox.GPSTracker
+ com.kylukz.agitofoods.Toolbox.GPSTracker$1
+ com.kylukz.agitofoods.Toolbox.GPSTracker$2
+com/kylukz/agitofoods/Firebase/FirebaseBackgroundService.java
+ com.kylukz.agitofoods.Firebase.FirebaseBackgroundService
+com/kylukz/agitofoods/Cart/Carrinho.java
+ com.kylukz.agitofoods.Cart.Carrinho
+ com.kylukz.agitofoods.Cart.Carrinho$1
+ com.kylukz.agitofoods.Cart.Carrinho$2
+ com.kylukz.agitofoods.Cart.Carrinho$3
+ com.kylukz.agitofoods.Cart.Carrinho$4
+ com.kylukz.agitofoods.Cart.Carrinho$5
+ com.kylukz.agitofoods.Cart.Carrinho$6
+com/kylukz/agitofoods/Toolbox/HidingScrollListener.java
+ com.kylukz.agitofoods.Toolbox.HidingScrollListener
+com/kylukz/agitofoods/Animation/Animatoo.java
+ com.kylukz.agitofoods.Animation.Animatoo
+com/kylukz/agitofoods/Adapters/EscolhaFormasPagamentoAdapter.java
+ com.kylukz.agitofoods.Adapters.EscolhaFormasPagamentoAdapter
+ com.kylukz.agitofoods.Adapters.EscolhaFormasPagamentoAdapter$1
+ com.kylukz.agitofoods.Adapters.EscolhaFormasPagamentoAdapter$2
+ com.kylukz.agitofoods.Adapters.EscolhaFormasPagamentoAdapter$3
+ com.kylukz.agitofoods.Adapters.EscolhaFormasPagamentoAdapter$EscolhaOpcoesPagamentoViewHolder
+com/kylukz/agitofoods/Toolbox/ViaCEP.java
+ com.kylukz.agitofoods.Toolbox.ViaCEP
+com/kylukz/agitofoods/View/MenuPrincipalEmpresa.java
+ com.kylukz.agitofoods.View.MenuPrincipalEmpresa
+ com.kylukz.agitofoods.View.MenuPrincipalEmpresa$1
+ com.kylukz.agitofoods.View.MenuPrincipalEmpresa$1$1
+ com.kylukz.agitofoods.View.MenuPrincipalEmpresa$10
+ com.kylukz.agitofoods.View.MenuPrincipalEmpresa$2
+ com.kylukz.agitofoods.View.MenuPrincipalEmpresa$3
+ com.kylukz.agitofoods.View.MenuPrincipalEmpresa$4
+ com.kylukz.agitofoods.View.MenuPrincipalEmpresa$5
+ com.kylukz.agitofoods.View.MenuPrincipalEmpresa$6
+ com.kylukz.agitofoods.View.MenuPrincipalEmpresa$7
+ com.kylukz.agitofoods.View.MenuPrincipalEmpresa$8
+ com.kylukz.agitofoods.View.MenuPrincipalEmpresa$9
+ com.kylukz.agitofoods.View.MenuPrincipalEmpresa$AsyncTaskGetEmpresa
+ com.kylukz.agitofoods.View.MenuPrincipalEmpresa$AsyncTaskSetCompletarCadastro
+com/kylukz/agitofoods/Adapters/BotoesMenuPontoAdapter.java
+ com.kylukz.agitofoods.Adapters.BotoesMenuPontoAdapter
+ com.kylukz.agitofoods.Adapters.BotoesMenuPontoAdapter$OpcoesPontoViewHolder
+com/kylukz/agitofoods/JavaBeans/EntidadePagamentoEscolhaModo.java
+ com.kylukz.agitofoods.JavaBeans.EntidadePagamentoEscolhaModo
+com/kylukz/agitofoods/SQLite/GeraTabelasSQLite.java
+ com.kylukz.agitofoods.SQLite.GeraTabelasSQLite
+com/kylukz/agitofoods/DAO/LogDAO.java
+ com.kylukz.agitofoods.DAO.LogDAO
+com/kylukz/agitofoods/DAO/SegmentoDAO.java
+ com.kylukz.agitofoods.DAO.SegmentoDAO
+com/kylukz/agitofoods/Services/Receiver.java
+ com.kylukz.agitofoods.Services.Receiver

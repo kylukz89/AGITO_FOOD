@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639979472858",
+    "project_id": "agitofoods-5abfe",
+    "storage_bucket": "agitofoods-5abfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639979472858:android:42e06f76fc2f996c14a2e3",
+        "android_client_info": {
+          "package_name": "com.kylukz.agitofoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639979472858-kke94khmolio2f9bkm7pcoq4vij87109.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlhq6s3_f_qWI4EDPyDBabX_yf7Xi88Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639979472858-kke94khmolio2f9bkm7pcoq4vij87109.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
