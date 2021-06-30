@@ -1,0 +1,9 @@
+[14-Jun-2020 18:50:37 America/Fortaleza] PHP Fatal error:  Uncaught Exception: This library must be installed via composer or by downloading the full package. See the instructions at https://github.com/google/google-api-php-client#installation. in /home/modularesolution/www/desenvolvimento/AgitoFood/AgitoFoodApp_Cliente/App/Lib/API/Google/GoogleAuthAPI/src/Google/autoload.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/modularesolution/www/desenvolvimento/AgitoFood/AgitoFoodApp_Cliente/App/Lib/API/Google/GoogleAuthAPI/src/Google/autoload.php on line 14
+[14-Jun-2020 18:50:37 America/Fortaleza] PHP Fatal error:  Uncaught Exception: This library must be installed via composer or by downloading the full package. See the instructions at https://github.com/google/google-api-php-client#installation. in /home/modularesolution/www/desenvolvimento/AgitoFood/AgitoFoodApp_Cliente/App/Lib/API/Google/GoogleAuthAPI/src/Google/autoload.php:14
+Stack trace:
+#0 /home/modularesolution/www/desenvolvimento/AgitoFood/AgitoFoodApp_Cliente/App/Lib/API/Google/GoogleAuthAPI/src/Google/Collection.php(4): require_once()
+#1 {main}
+  thrown in /home/modularesolution/www/desenvolvimento/AgitoFood/AgitoFoodApp_Cliente/App/Lib/API/Google/GoogleAuthAPI/src/Google/autoload.php on line 14

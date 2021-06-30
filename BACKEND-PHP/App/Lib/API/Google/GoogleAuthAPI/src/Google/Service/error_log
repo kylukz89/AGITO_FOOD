@@ -1,0 +1,1 @@
+[14-Jun-2020 18:50:37 America/Fortaleza] PHP Fatal error:  Class 'Google_Exception' not found in /home/modularesolution/www/desenvolvimento/AgitoFood/AgitoFoodApp_Cliente/App/Lib/API/Google/GoogleAuthAPI/src/Google/Service/Exception.php on line 18
