@@ -1,5 +1,3 @@
- ![WhatsApp Image 2021-09-19 at 10 42 41](https://user-images.githubusercontent.com/73261296/133929847-13509579-4972-4a90-8698-01cacdb85178.jpeg)
-![WhatsApp Image 2021-09-19 at 10 42 42 (1)](https://user-images.githubusercontent.com/73261296/133929849-bbfb65c3-9a9a-4009-82fb-f95def410ad0.jpeg)
 ![WhatsApp Image 2021-09-19 at 10 42 43 (1)](https://user-images.githubusercontent.com/73261296/133929850-ab5c690a-6ed3-4dac-b097-39b5d28096ca.jpeg)
 ![WhatsApp Image 2021-09-19 at 10 42 44](https://user-images.githubusercontent.com/73261296/133929851-6254282a-4008-4838-953d-f5c59c1544ad.jpeg)
 ![WhatsApp Image 2021-09-19 at 10 42 45 (1)](https://user-images.githubusercontent.com/73261296/133929852-ab881e48-57dd-4304-8a54-9af2f4057064.jpeg)
